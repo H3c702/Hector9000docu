@@ -17,5 +17,5 @@ jobs:
         with:
           name: PDF
           path:       |
-                H9000_ger.tex
-                H9000_eng.tex
+                H9000_ger.pdf
+                H9000_eng.pdf
